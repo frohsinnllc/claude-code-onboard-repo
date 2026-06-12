@@ -1,5 +1,7 @@
 # onboard-repo — a Claude Code skill that understands a repo *before* editing it
 
+<img src="assets/og.png" alt="Claude Code Operator Kit — tuned settings, original skills, CLAUDE.md template, operator playbook" width="100%">
+
 Claude Code (and most coding agents) fail the same way in an unfamiliar repository: **they edit before they understand.** Confident-but-wrong changes, invented conventions, missed test gates.
 
 This skill forces a one-pass onboarding ritual — stack, entry points, architecture map, conventions, risks, smallest test gate — and then **stops** with a six-line brief instead of diving into changes. It has been the single biggest quality bump in my setup.
