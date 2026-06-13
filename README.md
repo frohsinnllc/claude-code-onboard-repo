@@ -81,12 +81,12 @@ Stop here. Do not change code during onboarding — the brief is the deliverable
 
 ## Part of the Operator Kit
 
-This skill is the free sample from the **Claude Code Operator Kit** — a small, install-ready bundle for Claude Code power users:
+This skill is the free sample from the **Claude Code Operator Kit** — not another 200-skill library to forage through, but the curated handful that actually move your day-one productivity, tuned and explained:
 
 - a tuned `settings.json` (sane permissions → fewer interruptions),
 - a `CLAUDE.md` template that actually changes agent behavior,
 - a companion **`ship-pr`** skill (branch → commit → PR with guardrails),
-- a short operator playbook.
+- the **Operator's Playbook** — the judgment a skill file can't give you: how to scope, verify, and dodge the expensive mistakes.
 
 **€29 one-time · lifetime updates · 7-day refund** → [operator-kit-deploy.vercel.app](https://operator-kit-deploy.vercel.app?ref=github)
 
